@@ -79,7 +79,7 @@ export default function Home() {
         AI Girlfriend 💕
       </header> */}
       <header className="p-4 text-2xl font-bold border-b border-gray-700">
-        AI Ta Ma Ki 💕
+        AI-Tushka
       </header>
 
       <div className="flex-1 overflow-y-auto p-4 space-y-3">
